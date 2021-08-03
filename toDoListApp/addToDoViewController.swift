@@ -13,8 +13,6 @@ class addToDoViewController: UIViewController {
     @IBOutlet weak var importantSwitch: UISwitch!
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
     }
     @IBAction func addTapped(_ sender: Any) {
         /*let toDo = ToDo()
